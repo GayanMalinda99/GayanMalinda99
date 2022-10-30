@@ -31,13 +31,13 @@
 
 
 
-<table>
-  <tr>
-    <td><p>&nbsp;<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=gayanmalinda99&show_icons=true&locale=en" alt="gayanmalinda99" /></p></td>
-    <td><p><img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=gayanmalinda99&" alt="gayanmalinda99" /></p></td>
+<table styles="border-style: none; background-color: none">
+  <tr styles="border-style: none; background-color: none">
+    <td styles="border-style: none; background-color: none"><p>&nbsp;<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=gayanmalinda99&show_icons=true&locale=en" alt="gayanmalinda99" /></p></td>
+    <td styles="border-style: none; background-color: none"><p><img align="right" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=gayanmalinda99&" alt="gayanmalinda99" /></p></td>
   </tr>
-  <tr>
-    <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanmalinda99&show_icons=true&locale=en&layout=compact" alt="gayanmalinda99" /></p></td>
+  <tr styles="border-style: none; background-color: none">
+    <td styles="border-style: none; background-color: none"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanmalinda99&show_icons=true&locale=en&layout=compact" alt="gayanmalinda99" /></p></td>
   </tr>
 </table>
 
