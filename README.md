@@ -11,7 +11,6 @@
 <!-- Coder Image -->
 <img align="right" alt="coding" width="325" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!-- Coder Image -->
-
 <br>
 
 - 🌱 I’m currently learning AngularJs
