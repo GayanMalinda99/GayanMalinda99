@@ -11,7 +11,7 @@
 <img align="right" alt="coding" width="325" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!-- Coder Image -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayanmalinda99" alt="gayanmalinda99" width="325" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayanmalinda99" alt="gayanmalinda99" width="550" /></a> </p>
 
 - 🌱 I’m currently learning **AngularJs**
 
