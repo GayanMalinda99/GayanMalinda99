@@ -13,11 +13,11 @@
 <!-- Coder Image -->
 
 <br>
-- 🌱 I’m currently learning **AngularJs**
+- 🌱 I’m currently learning AngularJs
 
 - 📝 I regularly write articles on [https://medium.com/@gayan1999malinda](https://medium.com/@gayan1999malinda)
 
-- 📫 How to reach me : **gayan1999malinda@gmail.com**
+- 📫 How to reach me : gayan1999malinda@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
