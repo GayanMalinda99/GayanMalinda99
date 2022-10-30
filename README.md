@@ -13,6 +13,7 @@
 <!-- Coder Image -->
 
 <br>
+
 - 🌱 I’m currently learning AngularJs
 
 - 📝 I regularly write articles on [https://medium.com/@gayan1999malinda](https://medium.com/@gayan1999malinda)
