@@ -6,6 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Gayan Malinda</h1>
 <h3 align="center">BSc (Hons.) Software Engineering ( UG ) | Full Stack Web Developer</h3>
+<hr>
 
 <!-- Coder Image -->
 <img align="right" alt="coding" width="325" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
