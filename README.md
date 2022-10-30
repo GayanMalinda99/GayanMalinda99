@@ -37,7 +37,7 @@
     <td styles="border-style: none; background-color: none"><p><img align="right" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=gayanmalinda99&" alt="gayanmalinda99" /></p></td>
   </tr>
   <tr styles="border-style: none; background-color: none">
-    <td styles="border-style: none; background-color: none"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanmalinda99&show_icons=true&locale=en&layout=compact" alt="gayanmalinda99" /></p></td>
+    <td styles="border-style: none; background-color: none"><p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayanmalinda99&show_icons=true&locale=en&layout=compact" alt="gayanmalinda99" /></p></td>
   </tr>
 </table>
 
