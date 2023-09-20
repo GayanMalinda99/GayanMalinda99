@@ -5,7 +5,7 @@
 <!-- Banner Head -->
 
 <h1 align="center">Hi 👋, I'm Gayan Malinda</h1>
-<h3 align="center">BSc (Hons.) Software Engineering ( UG ) | Full Stack Web Developer</h3>
+<h3 align="center">BSc (Hons.) Software Engineering ( UG ) | Associate Software Engineer at Velaris</h3>
 <hr>
 
 <!-- Coder Image -->
